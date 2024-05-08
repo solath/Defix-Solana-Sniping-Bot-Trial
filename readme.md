@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://defix.shop/wp-content/uploads/uploads/2023/08/logo1.png" alt="LOGO">
+  ![](https://s2.ezgif.com/tmp/ezgif-2-7815a53618.gif)
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
