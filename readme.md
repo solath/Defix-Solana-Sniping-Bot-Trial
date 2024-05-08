@@ -49,8 +49,6 @@
 
 - Navigate to the project folder
 
-Open a terminal and navigate to the project folder
-
 - Install the required libraries 
 
 Run the following command to install the required libraries for the project:
