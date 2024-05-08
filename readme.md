@@ -8,10 +8,7 @@
 
 <p align="center">
   <img src="https://defix.shop/wp-content/uploads/uploads/2023/08/logo1.png" alt="LOGO">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-7815a53618.gif" alt="Animated GIF" />
 </p>
-
-
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -28,7 +25,7 @@
 
 ## Characteristics 🌟
 
-![](https://s2.ezgif.com/tmp/ezgif-2-7815a53618.gif)
+![](https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif)
 
 - Sniping: Execute purchase transactions swiftly upon liquidity injection into an SPL token, ensuring swift access to emerging token opportunities.
 - Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention.
@@ -41,12 +38,13 @@
 
 ## Installation ⚙️
 
+![](https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif)
 - ***Download Node.js*** (https://nodejs.org/en)
 
 
 ## How to Use 🛠️
 
-
+![](https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif)
 - Navigate to the project folder
 
 Open a terminal and navigate to the project folder
@@ -73,6 +71,7 @@ npm run buy
 
 
 ## Settings 🔧
+![](https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif)
 (***Configurable by editing .env file***)
 - Enter BUY_DELAY : In seconds after launch. Set to 0, Token will buy immediately after token launch
 - SELL_PERCENT : Take-Profit Order (TP) . Token places a sell order and confirms immediately after reaching the target
@@ -86,6 +85,7 @@ Video:
 
 
 # Contact 📞
+![](https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif)
 [Telegram](https://t.me/DefiXTeam)
 - Telegram : @DefixTeam
 
