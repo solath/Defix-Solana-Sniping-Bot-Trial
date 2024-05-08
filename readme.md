@@ -25,6 +25,8 @@
 
 ## Characteristics 🌟
 
+![](https://i.gifer.com/Vp3L.gif)
+
 - Sniping: Execute purchase transactions swiftly upon liquidity injection into an SPL token, ensuring swift access to emerging token opportunities.
 - Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention.
 - Buy/Sell x Times: Employ repetitive buy orders to strategically accumulate or divest tokens, optimizing investment positions.
