@@ -42,10 +42,10 @@
 
 - ***Download Node.js*** (https://nodejs.org/en)
 
-![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
+
 ## How to Use 🛠️
 
-
+![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 - Navigate to the project folder
 
@@ -68,7 +68,7 @@ Run the following command to start the project:
 npm run buy
 ```
 
-![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
+
 
 ## Settings 🔧
 ![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
