@@ -25,7 +25,7 @@
 
 ## Characteristics 🌟
 
-![](https://github.com/timuruva/realtime-processing/blob/127d46a2edc57ec1449d8976e04f301e3c1997b7/Files/line.gif)
+![](https://images.squarespace-cdn.com/content/v1/5ede655e2d648e5920669870/1596057013191-Q9GN6F1I8NEODQA5MQBO/Line.gif)
 
 - Sniping: Execute purchase transactions swiftly upon liquidity injection into an SPL token, ensuring swift access to emerging token opportunities.
 - Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention.
