@@ -39,12 +39,14 @@
 ## Installation ⚙️
 
 ![](https://s2.ezgif.com/tmp/ezgif-2-7815a53618.gif)
+
 - ***Download Node.js*** (https://nodejs.org/en)
 
 
 ## How to Use 🛠️
 
 ![](https://s2.ezgif.com/tmp/ezgif-2-7815a53618.gif)
+
 - Navigate to the project folder
 
 Open a terminal and navigate to the project folder
@@ -72,6 +74,7 @@ npm run buy
 
 ## Settings 🔧
 ![](https://s2.ezgif.com/tmp/ezgif-2-7815a53618.gif)
+
 (***Configurable by editing .env file***)
 - Enter BUY_DELAY : In seconds after launch. Set to 0, Token will buy immediately after token launch
 - SELL_PERCENT : Take-Profit Order (TP) . Token places a sell order and confirms immediately after reaching the target
@@ -86,6 +89,7 @@ Video:
 
 # Contact 📞
 ![](https://s2.ezgif.com/tmp/ezgif-2-7815a53618.gif)
+
 [Telegram](https://t.me/DefiXTeam)
 - Telegram : @DefixTeam
 
