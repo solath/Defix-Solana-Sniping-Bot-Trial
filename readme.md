@@ -40,7 +40,7 @@
 
 ![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
-- ***Download Node.js*** (https://nodejs.org/en)
+- ***Download and Install Node.js*** (https://nodejs.org/en)
 - ***Download Latest Bot release*** (https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/releases/download/1.09/Defix.Solana.Sniper.Trial.v1.09.rar)
 
 
