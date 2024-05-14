@@ -88,6 +88,42 @@ Video:
 [![Video Title](https://img.youtube.com/vi/TP_SfQZK3r0/0.jpg)](https://www.youtube.com/watch?v=TP_SfQZK3r0)
 
 
+## FAQ
+
+<details>
+  <summary>How does the bot detect liquidity injection in SPL tokens?</summary>
+  <p>The Defix Solana Sniping Bot uses a technique called "listening" to detect liquidity injection in SPL tokens. It continuously monitors the Solana blockchain for new token listings or liquidity additions to existing listings. Once a new liquidity injection is detected, the bot triggers a purchase transaction to buy the token at the current market price. This enables users to gain swift access to emerging token opportunities.
+
+Please note that this bot is a free trial version and may not have the same level of performance and features as the premium version. For more information on the premium version, you can join the Defix Telegram channel at https://t.me/defixann..</p>
+</details>
+
+<details>
+  <summary>How do I install the project?</summary>
+  <p>To install the project, follow these steps:</p>
+  <ol>
+    <li>Clone the repository: <code>git clone https://github.com/yourusername/yourproject.git</code></li>
+    <li>Navigate to the project directory: <code>cd yourproject</code></li>
+    <li>Install the dependencies: <code>npm install</code></li>
+  </ol>
+</details>
+
+<details>
+  <summary>How do I contribute?</summary>
+  <p>We welcome contributions! Please follow these guidelines:</p>
+  <ul>
+    <li>Fork the repository</li>
+    <li>Create a new branch for your feature: <code>git checkout -b feature-name</code></li>
+    <li>Make your changes</li>
+    <li>Submit a pull request</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Where can I find the documentation?</summary>
+  <p>The documentation is available in the <a href="https://github.com/yourusername/yourproject/wiki">wiki</a> section of the repository.</p>
+</details>
+
+
 # Contact 📞
 ![](https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
