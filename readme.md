@@ -14,7 +14,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-![Hits](https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Views&extraCount=1356&color=11c3cc) ![Hits](https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Downloads&extraCount=347&color=b211cc) ![GitHub Repo stars](https://img.shields.io/github/stars/:Defix-Shop/:Defix-Solana-Sniping-Bot-Trial)
+![Hits](https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Views&extraCount=1356&color=11c3cc) ![Hits](https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Downloads&extraCount=347&color=b211cc) ![GitHub Repo stars](https://img.shields.io/github/stars/Defix-Shop/Defix-Solana-Sniping-Bot-Trial)
 
 
 📞 Join our TG channel to check how we snipe with the premium version: https ://t.me/defixann 📞
