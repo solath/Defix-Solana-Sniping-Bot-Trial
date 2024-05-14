@@ -14,6 +14,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+[![Hits](https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg)](https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/)
+
 📞 Join our TG channel to check how we snipe with the premium version: https ://t.me/defixann 📞
 
 
