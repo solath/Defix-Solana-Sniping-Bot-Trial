@@ -90,38 +90,56 @@ Video:
 
 ## FAQ
 
-<details>
-  <summary>How does the bot detect liquidity injection in SPL tokens?</summary>
-  <p>The Defix Solana Sniping Bot uses a technique called "listening" to detect liquidity injection in SPL tokens. It continuously monitors the Solana blockchain for new token listings or liquidity additions to existing listings. Once a new liquidity injection is detected, the bot triggers a purchase transaction to buy the token at the current market price. This enables users to gain swift access to emerging token opportunities.
+<button class="dropdown-btn">How does the bot detect liquidity injection in SPL tokens?
+  <i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+  <p>The Defix Solana Sniping Bot uses a technique called 'listening' to detect liquidity injection in SPL tokens. It continuously monitors the Solana blockchain for new token listings or liquidity additions to existing listings. Once a new liquidity injection is detected, the bot triggers a purchase transaction to buy the token at the current market price. This enables users to gain swift access to emerging token opportunities.</p>
+</div>
 
-Please note that this bot is a free trial version and may not have the same level of performance and features as the premium version. For more information on the premium version, you can join the Defix Telegram channel at https://t.me/defixann..</p>
-</details>
+<button class="dropdown-btn">Can I monitor multiple tokens simultaneously with the bot?
+  <i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+  <p>The free trial version of the Defix Solana Sniping Bot only allows you to monitor and snipe one token at a time. If you would like to monitor and snipe multiple tokens simultaneously, you may consider upgrading to the premium version of the bot. The premium version offers more advanced features and capabilities, including the ability to monitor and snipe multiple tokens at the same time.</p>
+</div>
 
-<details>
-  <summary>How do I install the project?</summary>
-  <p>To install the project, follow these steps:</p>
-  <ol>
-    <li>Clone the repository: <code>git clone https://github.com/yourusername/yourproject.git</code></li>
-    <li>Navigate to the project directory: <code>cd yourproject</code></li>
-    <li>Install the dependencies: <code>npm install</code></li>
-  </ol>
-</details>
+<button class="dropdown-btn">What is the difference between the free trial version and the premium version?
+  <i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+  <p>The free trial version of the Defix Solana Sniping Bot has limited features and capabilities compared to the premium version. The premium version offers more advanced features, such as the ability to monitor and snipe multiple tokens simultaneously, and has better performance and reliability.</p>
+</div>
 
-<details>
-  <summary>How do I contribute?</summary>
-  <p>We welcome contributions! Please follow these guidelines:</p>
-  <ul>
-    <li>Fork the repository</li>
-    <li>Create a new branch for your feature: <code>git checkout -b feature-name</code></li>
-    <li>Make your changes</li>
-    <li>Submit a pull request</li>
-  </ul>
-</details>
+<button class="dropdown-btn">How do I configure the bot to work with my Solana wallet?
+  <i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+  <p>To configure the bot to work with your Solana wallet, you need to edit the `.env` file and enter your private key. You can also configure other settings, such as the buy delay and sell percentage, in the `.env` file.</p>
+</div>
 
-<details>
-  <summary>Where can I find the documentation?</summary>
-  <p>The documentation is available in the <a href="https://github.com/yourusername/yourproject/wiki">wiki</a> section of the repository.</p>
-</details>
+<button class="dropdown-btn">What is the purpose of the buy delay setting?
+  <i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+  <p>The buy delay setting allows you to set a delay between the time the bot detects liquidity injection and the time it executes the buy transaction. This can be useful if you want to give yourself time to review the token before buying it.</p>
+</div>
+
+<button class="dropdown-btn">How do I get support or report issues with the bot?
+  <i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+  <p>You can get support or report issues with the bot by joining our Telegram channel at <a href="https://t.me/defixann">https://t.me/defixann</a>. Our team is available to help you with any questions or issues you may have.</p>
+</div>
+
+<button class="dropdown-btn">Is the bot safe to use?
+  <i class="fa fa-caret-down"></i>
+</button>
+<div class="dropdown-container">
+  <p>The Defix Solana Sniping Bot is designed to be safe to use, but as with any automated trading bot, there are risks involved. You should always use the bot at your own risk and never invest more than you can afford to lose.</p>
+</div>
+
+
 
 
 # Contact 📞
