@@ -1,4 +1,4 @@
-<h1 align="center"> Defix Solana Sniping Bot (Free Trial) 💻 CLI VERSION 💻 </h1> <br>
+<h1 align="center"> Defix Solana Sniping Bot UI Trial</h1> <br>
 <p align="center">
   <a href=""> 
     
