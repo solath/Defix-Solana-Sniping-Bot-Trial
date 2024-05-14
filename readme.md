@@ -88,7 +88,7 @@ Video:
 [![Video Title](https://img.youtube.com/vi/TP_SfQZK3r0/0.jpg)](https://www.youtube.com/watch?v=TP_SfQZK3r0)
 
 
-## FAQ
+## ❓ FAQ
 
 <details>
   <summary>How does the bot detect liquidity injection in SPL tokens?</summary>
