@@ -102,7 +102,7 @@ Video:
 
 <details>
   <summary>What is the difference between the free trial version and the premium version?</summary>
-  <p>The free trial version of the Defix Solana Sniping Bot has limited features and capabilities compared to the premium version. The premium version offers more advanced features, such as the ability to monitor and snipe multiple tokens simultaneously, and has better performance and reliability.</p>
+  <p>The free trial version of the Defix Solana Sniping Bot has limited features and capabilities compared to the premium version. The premium version offers more advanced features, such as the ability to monitor and snipe multiple tokens simultaneously, anti rug, VIP RPC Node, trailing stop loss, etc and has better performance and reliability.</p>
 </details>
 
 <details>
