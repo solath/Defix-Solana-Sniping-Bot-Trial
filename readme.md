@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Views&extraCount=1356&color=11c3cc" alt="Hits">
   <img src="https://hits.sh/github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial.svg?label=Downloads&extraCount=347&color=b211cc" alt="Downloads">
-  <img src="https://img.shields.io/github/stars/Defix-Shop/Defix-Solana-Sniping-Bot-Trial" alt="GitHub Repo stars">
+  <img src="https://img.shields.io/github/stars/defixbots/Defix-Solana-Sniping-Bot-Trial" alt="GitHub Repo stars">
 </p>
 
 
