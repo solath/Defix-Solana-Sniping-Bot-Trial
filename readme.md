@@ -33,7 +33,7 @@
 
 ## Characteristics 🌟
 
-![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/linedivider.gif)
+![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 - Sniping: Execute purchase transactions swiftly upon liquidity injection into an SPL token, ensuring swift access to emerging token opportunities.
 - Take Profit: Automatically trigger token sales when a predetermined profit percentage is achieved, securing profits without manual intervention.
@@ -46,7 +46,7 @@
 
 ## Installation ⚙️
 
-![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/linedivider.gif)
+![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 - ***Download and Install Node.js*** (https://nodejs.org/en)
 - ***Download Latest Bot release*** (https://github.com/Defix-Shop/Defix-Solana-Sniping-Bot-Trial/releases/download/1.09/Defix.Solana.Sniper.Trial.v1.09.rar)
@@ -54,7 +54,7 @@
 
 ## How to Use 🛠️
 
-![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/linedivider.gif)
+![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 - Navigate to the project folder
 
@@ -80,7 +80,7 @@ npm run buy
 
 
 ## Settings 🔧
-![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/linedivider.gif)
+![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 (***Configurable by editing .env file***)
 - Enter BUY_DELAY : In seconds after launch. Set to 0, Token will buy immediately after token launch
@@ -135,7 +135,7 @@ Video:
 
 
 # Contact 📞
-![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/linedivider.gif)
+![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 [Telegram](https://t.me/DefiXTeam)
 - Telegram : @DefixTeam
