@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <a href ="https://t.me/DefiXTeam">
+  <a href ="https://t.me/DefiXShopTeam">
   
   </a>
 </p>
@@ -138,6 +138,6 @@ Video:
 ![](https://github.com/DefixBots/Defix-Solana-Sniping-Bot-Trial/blob/main/linedivider.gif)
 
 [Telegram](https://t.me/DefiXTeam)
-- Telegram : @DefixTeam
+- Telegram : @DefixShopTeam
 
 
