@@ -22,7 +22,7 @@
 </p>
 
 
-📞 Join our TG channel to check how we snipe with the premium version: https ://t.me/defixann 📞
+📞 Join our TG channel to check how we snipe with the premium version 📞
 
 
 <p align="center">
